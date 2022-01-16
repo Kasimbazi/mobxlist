@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mobxlist/static/css/main.7dcaea21.chunk.css",
+    "main.js": "/mobxlist/static/js/main.ce534385.chunk.js",
+    "main.js.map": "/mobxlist/static/js/main.ce534385.chunk.js.map",
+    "runtime-main.js": "/mobxlist/static/js/runtime-main.bc51eeac.js",
+    "runtime-main.js.map": "/mobxlist/static/js/runtime-main.bc51eeac.js.map",
+    "static/css/2.11829350.chunk.css": "/mobxlist/static/css/2.11829350.chunk.css",
+    "static/js/2.00ee10dd.chunk.js": "/mobxlist/static/js/2.00ee10dd.chunk.js",
+    "static/js/2.00ee10dd.chunk.js.map": "/mobxlist/static/js/2.00ee10dd.chunk.js.map",
+    "index.html": "/mobxlist/index.html",
+    "precache-manifest.643bac5b706c7722c16f8a929a9ef175.js": "/mobxlist/precache-manifest.643bac5b706c7722c16f8a929a9ef175.js",
+    "service-worker.js": "/mobxlist/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/mobxlist/static/css/2.11829350.chunk.css.map",
+    "static/css/main.7dcaea21.chunk.css.map": "/mobxlist/static/css/main.7dcaea21.chunk.css.map",
+    "static/js/2.00ee10dd.chunk.js.LICENSE.txt": "/mobxlist/static/js/2.00ee10dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc51eeac.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.00ee10dd.chunk.js",
+    "static/css/main.7dcaea21.chunk.css",
+    "static/js/main.ce534385.chunk.js"
+  ]
+}
